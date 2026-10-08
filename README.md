@@ -1,3 +1,5 @@
+## Скачать quick.exe https://github.com/Terrowww/terrowww-pc/releases
+
 ## Установка
 
 1. Скачай `quick.exe`
