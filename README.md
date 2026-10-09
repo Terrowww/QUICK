@@ -1,4 +1,4 @@
-## Скачать quick.exe https://github.com/Terrowww/terrowww-pc/releases
+## Скачать quick.exe https://github.com/Terrowww/terrowww-pc/releases/latest
 
 ### Также есть мобильная версия: [Quick для Android](https://github.com/Terrowww/terrowww-mb)
 
